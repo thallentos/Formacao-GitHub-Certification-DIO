@@ -44,3 +44,6 @@ Outros:
     VII- Fazer o pull (receber/atualizar) do repositório online para o repositório local
         VII.I- git pull origin [nome da branch]
 
+    VIII- Adicionar para qual repositório *remoto* (repositório do GitHub) o código está indo
+        VIII.I- git remote add origin [url do repositório]
+

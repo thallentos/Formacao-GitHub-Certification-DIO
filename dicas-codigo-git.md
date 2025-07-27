@@ -15,12 +15,13 @@ Trilha do que fazer
         4.2- git commit -m [mensagem]
 
     5- Fazer o push (enviar) do repositório local para o repositório online:
-        5.1- git push origin [nome da branch]
+        5.1- git push -u origin [nome da branch]
 
 Outros:
 
     I- Mostra o histórico dos commits
         I.I- git log
+        I.II- Para sair da interface desse hitórico, digite "q"
 
     II- Ver estado atual do repositório
         II.I- git status
@@ -49,7 +50,3 @@ Outros:
 
     IX- Ver qual repositório *remoto* (repositório do GitHub) o código estava indo
         IX.I- git remote -v
-
-    X- Ver o hitórico de commits
-        X.I- git log
-        X.II- Para sair da interface desse hitórico, digite "q"

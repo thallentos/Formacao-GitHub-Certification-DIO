@@ -31,6 +31,9 @@ Outros:
     
     IV- Criar uma branch
         IV.I- git branch [nome da branch]
+
+    IV/V- Criar uma branch e entrar nela no mesmo comando
+        IV/V.I- git checkout -b [nome da branch]
     
     V- Entrar/trocar para uma branch
         V.I- git checkout [nome da branch]

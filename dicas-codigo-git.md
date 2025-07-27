@@ -47,3 +47,9 @@ Outros:
     VIII- Adicionar para qual repositório *remoto* (repositório do GitHub) o código está indo
         VIII.I- git remote add origin [url do repositório]
 
+    IX- Ver qual repositório *remoto* (repositório do GitHub) o código estava indo
+        IX.I- git remote -v
+
+    X- Ver o hitórico de commits
+        X.I- git log
+        X.II- Para sair da interface desse hitórico, digite "q"
